@@ -3,6 +3,7 @@ The [CIFAR-10](https://keras.io/api/datasets/cifar10/) dataset consists of 60000
 images and 10000 test images.The images are 32x32 RGB images in PNG format.
 
 The classes are: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
+![image](images/cifar10.png]
 ## Clone recursively
 ``` shell
 git clone https://github.com/yahyoxonqwe/cifar10.git
